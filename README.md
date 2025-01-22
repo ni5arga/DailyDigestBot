@@ -23,7 +23,7 @@ You'll need to have the following installed on your system:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ni5arga/reddit-dailydigest-bot.git
+   git clone https://github.com/ni5arga/DailyDigestBot.git
    ```
 2. Change the project directory
 
